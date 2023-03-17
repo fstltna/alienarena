@@ -1,3 +1,3 @@
 #!/bin/bash
-build/alienarena.x86_64 start
+source/alienarena
 exit 0
